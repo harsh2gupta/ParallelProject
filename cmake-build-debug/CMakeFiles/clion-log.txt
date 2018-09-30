@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/harsh/Documents/StonyBrook/SecondSem/Parallel Prog/shweta/ParallelProject"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/harsh/Documents/StonyBrook/SecondSem/Parallel Prog/shweta/ParallelProject/cmake-build-debug
